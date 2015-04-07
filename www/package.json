@@ -4,11 +4,14 @@
   "description": "Example sharejs quill app",
   "main": "app.js",
   "dependencies": {
+    "browserchannel": "^2.0.0",
     "connect": "^3.3.5",
     "express": "^4.12.3",
+    "express-handlebars": "^2.0.0",
     "livedb": "^0.5.9",
     "livedb-mongo": "^0.4.1",
     "primus": "^3.0.2",
+    "rich-text": "^1.1.0",
     "share": "^0.7.27",
     "sockjs": "^0.3.15",
     "stream": "^0.0.2"
